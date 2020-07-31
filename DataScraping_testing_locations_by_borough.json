@@ -1,0 +1,117 @@
+{
+ "testing_site": [
+  {
+   "name": "Bronx",
+   "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/#bronx",
+   "Bronx": [
+    {
+     "selection1": "NYC Health + Hospitals/Gotham Health, Belvis",
+     "selection1_url": "https://www.nychealthandhospitals.org/belvis",
+     "selection2": "NYC Health + Hospitals/Jacobi",
+     "selection2_url": "https://www.nychealthandhospitals.org/jacobi",
+     "selection3": "NYC Health + Hospitals/Lincoln",
+     "selection3_url": "https://www.nychealthandhospitals.org/lincoln",
+     "selection4": "NYC Health + Hospitals/Gotham Health, Morrisania",
+     "selection4_url": "https://www.nychealthandhospitals.org/morrisania",
+     "selection5": "NYC Health + Hospitals/North Central Bronx",
+     "selection5_url": "https://www.nychealthandhospitals.org/northcentralbronx",
+     "selection6": "Bathgate Contract Postal Station\n4006 3rd Avenue\nBronx, NY 19457\nMonday – Sunday, 9 a.m. – 7 p.m.",
+     "selection7": "Bronxwood Preparatory Academy\n921 East 228th Street\nBronx, NY 10466\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection8": "Edward Grant\n1302 Edward L Grant Highway\nBronx, NY 10452\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection9": "PS X017 (IS 184)\n778 Forest Avenue\nBronx, NY 10456\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection10": "Rain Boston Road Senior Center\n2424 Boston Road\nBronx, NY 10467\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection11": "St James Rec Center\n2530 Jerome Avenue\nBronx, NY 10468\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary"
+    }
+   ]
+  },
+  {
+   "name": "Brooklyn",
+   "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/#brooklyn",
+   "Brooklyn": [
+    {
+     "selection1": "NYC Health + Hospitals/Coney Island",
+     "selection1_url": "https://www.nychealthandhospitals.org/coneyisland",
+     "selection2": "NYC Health + Hospitals/Gotham Health, Cumberland",
+     "selection2_url": "https://www.nychealthandhospitals.org/cumberland",
+     "selection3": "NYC Health + Hospitals/Gotham Health, East New York",
+     "selection3_url": "https://www.nychealthandhospitals.org/eastnewyork",
+     "selection4": "NYC Health + Hospitals/Ida G. Israel Community Health Center\n2925 W 19th Street\nBrooklyn, New York 11224\n844-NYC-4NYC\nMonday – Saturday, 8 a.m. – 4 p.m.\nSunday, 8 a.m. – 12 p.m.\nNo appointments necessary",
+     "selection5": "NYC Health + Hospitals/Gotham Health, Jonathan Williams Houses\n333 Roebling Street\nBrooklyn, New York 11211\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Friday, 9 a.m. – 3:30 p.m.\nSaturday – Sunday, 9 a.m. – 2 p.m.\nAntibody Testing Offered Here\nMonday – Friday, 9 a.m. – 3:30 p.m.\nSaturday – Sunday, 9 a.m. – 2 p.m.\nNo appointments necessary",
+     "selection6": "NYC Health + Hospitals/Kings County",
+     "selection6_url": "https://www.nychealthandhospitals.org/kingscounty",
+     "selection7": "NYC Health + Hospitals/Woodhull",
+     "selection7_url": "https://www.nychealthandhospitals.org/woodhull",
+     "selection8": "196 Albany\n196 Albany Avenue\nBrooklyn, NY 11213\nMonday – Friday, 9 a.m. – 5 p.m.\nNo appointments necessary",
+     "selection9": "4002 Fort Hamilton\n4002 Fort Hamilton Parkway\nBrooklyn, NY 11218\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection10": "Bay Ridge 5th Ave\n8511 & 8515 5th Avenue\nBrooklyn, NY 11209\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection11": "Bensonhurst 14th Ave\n6315 14th Avenue\nBrooklyn, NY 11219\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection12": "Brooklyn Army Terminal\n140 58th Street\nBrooklyn, NY 11220\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection13": "Maria Lawton Senior Center\n400 Hart Street\nBrooklyn, NY 11206\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection14": "Midwood Pre-K\n1223 Coney Island Avenue\nBrooklyn, NY 11230\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection15": "Red Hook Recreation Center\n155 Bay Street, Brooklyn, NY 11231\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection16": "South Shore HS\n6565 Flatlands Avenue\nBrooklyn NY 11236\nEntrance at Glenwood Road\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary"
+    }
+   ]
+  },
+  {
+   "name": "Manhattan",
+   "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/#manhattan",
+   "Manhattan": [
+    {
+     "selection1": "NYC Health + Hospitals/Bellevue",
+     "selection1_url": "https://www.nychealthandhospitals.org/bellevue",
+     "selection2": "NYC Health + Hospitals/Gotham Health\nDyckman-Clinica de Las Americas\n175 Nagle Avenue\nNew York, New York 10034\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Saturday, 9 a.m. – 3:30 p.m.\nSunday, 9 a.m. – 1 p.m.\nAntibody Testing Offered Here\nMonday – Saturday, 9 a.m. – 3:30 p.m.\nSunday, 9 a.m. – 1 p.m.\nNo appointments necessary",
+     "selection3": "NYC Health + Hospitals/Gotham Health, Gouverneur",
+     "selection3_url": "https://www.nychealthandhospitals.org/gothamhealth/gouverneur",
+     "selection4": "NYC Health + Hospitals/Harlem",
+     "selection4_url": "https://www.nychealthandhospitals.org/harlem",
+     "selection5": "NYC Health + Hospitals/Metropolitan",
+     "selection5_url": "https://www.nychealthandhospitals.org/metropolitan",
+     "selection6": "NYC Health + Hospitals/Gotham Health, Sydenham",
+     "selection6_url": "https://www.nychealthandhospitals.org/sydenham",
+     "selection7": "East 111th\n141 East 111th Street\nNew York, NY 10029\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection8": "Highbridge Pool\n2301 Amsterdam Avenue\nNew York, New York 10033\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection9": "Old Broadway\n21 Old Broadway\nNew York, NY 10027\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection10": "Saint Nicholas Houses\n281 West 127th Street\nNew York, New York 10035\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Saturday, 9 a.m. – 3:30 p.m.\nSunday, 9 a.m. – 1 p.m.\nAntibody Testing Offered Here\nMonday – Saturday, 9 a.m. – 3:30 p.m.\nSunday, 9 a.m. – 1 p.m.\nNo appointments necessary"
+    }
+   ]
+  },
+  {
+   "name": "Queens",
+   "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/#queens",
+   "Queens": [
+    {
+     "selection1": "NYC Health + Hospitals/Elmhurst",
+     "selection1_url": "https://www.nychealthandhospitals.org/elmhurst",
+     "selection2": "NYC Health + Hospitals/Queens",
+     "selection2_url": "https://www.nychealthandhospitals.org/queens",
+     "selection3": "NYC Health + Hospitals/Gotham Health, Woodside\n50-53 Newtown Road\nWoodside, New York 11377\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Friday, 9 a.m. – 3 p.m.\nAntibody Testing Offered Here\nMonday – Friday, 9 a.m. – 3 p.m.\nNo appointments necessary",
+     "selection4": "1716 Bleecker\n1716 Bleecker Street\nQueens, NY 11385\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection5": "51-30 Northern Boulevard\n51-30 Northern Boulevard\nWoodside, NY 11377\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection6": "Beach 39th\n39-20 Rockaway Beach Boulevard\nQueens, NY 11691\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection7": "Jacob Riis Settlement House\n10-25 41st Avenue\nQueens, NY 11101\n844-NYC-4NYC\nCOVID-19 Testing Offered Here\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection8": "Leavitt Field Parking Lot\n34-41 137th Street\nFlushing, NY 11354\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection9": "Long Island City High School\n14-30 Broadway\nQueens, NY 11106\nTuesday – Saturday, 10 a.m. – 3 p.m.\nNo appointments necessary",
+     "selection10": "Sorrentino Rec Center\n18-48 Cornaga Avenue\nQueens, NY 11691\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection11": "Windsor Park Library\n79-50 Bell Blvd\nFlushing/Queens, NY 11364\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary"
+    }
+   ]
+  },
+  {
+   "name": "Staten Island",
+   "url": "https://www.nychealthandhospitals.org/covid-19-testing-sites/#statenisland",
+   "Staten_Island": [
+    {
+     "selection1": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+     "selection1_url": "https://www.nychealthandhospitals.org/vanderbilt",
+     "selection2": "NYC Health + Hospitals/Gotham Health, Vanderbilt (Drive-Thru)\n176 Tompkins Avenue\nStaten Island, NY 10304\n718-616-0999\nCOVID-19 Testing Offered Here\nMonday – Friday, 9 a.m. – 3 p.m.",
+     "selection3": "Former St John Villa HS\n57 Cleveland Place\nStaten Island, NY 10305\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection4": "Greenbelt Recreation Center\n501 Brielle Avenue\nStaten Island, NY 10314\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection5": "Mariners Harbor Library\nMariner’s Harbor Branch\n206 South Avenue\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection6": "P.S. 21 Margaret Emery-Elm Park\n168 Hooker Place\nStaten Island, NY 10302\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary",
+     "selection7": "Tottenville High School\n100 Luten Avenue\nStaten Island, NY 10312\nMonday – Sunday, 9 a.m. – 7 p.m.\nNo appointments necessary"
+    }
+   ]
+  }
+ ]
+}

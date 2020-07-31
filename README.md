@@ -10,7 +10,7 @@ COVID-19 originated during the year of 2019, hence the 19 tag attached to it. Ho
 This project revolves around the goal to construct a live time ML incorporated chat box using IBM's tools and utilize data scraping from the web with an added convenience of Alexa Integration to create a communication system that will help the public access COVID related information.
 
 # Challenges we ran into
-
+- Integrating Chatbot with Alexa
 
 # What we learned
 How to built a chat bot using IBM Watson Assistant
@@ -18,11 +18,9 @@ How to scrap real-time data
 
 # Built with
 
-IBM Watson Assistant:
-A Watson Assistant service utilizes machine learning and natural language processing to interact with users, provide them with data, answer their questions, and direct them towards useful services.
+- IBM Watson Assistant: A Watson Assistant service utilizes machine learning and natural language processing to interact with users, provide them with data, answer their questions, and direct them towards useful services.
 
-Alexa Integration:
-Amazon’s virtual AI technology assistant, Alexa, has the added benefit of accessibility. By 2021, Alexa stations throughout the BMCC campus will allow students and faculty to interact with Alexa to receive the same information as our chatbot. 
+- Alexa Integration: Amazon’s virtual AI technology assistant, Alexa, has the added benefit of accessibility. By 2021, Alexa stations throughout the BMCC campus will allow students and faculty to interact with Alexa to receive the same information as our chatbot. 
 
 # Team
 - Ryan Najac

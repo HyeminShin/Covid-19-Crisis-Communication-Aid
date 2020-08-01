@@ -26,15 +26,15 @@ https://youtu.be/DecRMvI8xJM
 
 # Future Plans
 1) Expand chatbot capabilities
-  - gather further COVID resources such as food bank locations and important news such as financial aid
+  - Gather further COVID resources such as food bank locations and important news such as financial aid
 2) Utilize Live Time Data Scraping
-  - gather live time statistical data on the COVID situation
+  - Gather live time statistical data on the COVID situation
 3) Alexa and Watson Connection
-  - get Alexa to connect with Watson and communicate back and forth
+  - Get Alexa to connect with Watson and communicate back and forth
 4) Connectibility of ALL resources
-  - scrape further data from the web, and get the chat bot to reflect those changes
-  - incorportae live time data all around 
-  - create a separate hub on Alexa to act as a communcaiton base for chat bot and live time data
+  - Scrape further data from the web, and get the chat bot to reflect those changes
+  - Incorportae live time data all around 
+  - Create a separate hub on Alexa to act as a communcaiton base for chat bot and live time data
 
 # Built with
 

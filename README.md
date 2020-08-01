@@ -22,7 +22,7 @@ Each one of us took on a different part of this project...
 # Demo Video
 https://youtu.be/DecRMvI8xJM
 
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=DecRMvI8xJM.jpg)](https://www.youtube.com/watch?v=DecRMvI8xJM "COVID Comm To The Rescue!")
+[![IMAGE ALT TEXT](.jpg)](https://www.youtube.com/watch?v=DecRMvI8xJM "COVID Comm To The Rescue!")
 
 # Future Plans
 1) Expand chatbot capabilities

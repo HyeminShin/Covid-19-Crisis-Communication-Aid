@@ -34,6 +34,8 @@ Ryan Najac: Alexa Skills and Watson integration
 
 - IBM Watson Assistant: A Watson Assistant service that utilizes machine learning and natural language processing to interact with users, provide them with data, answer their questions, and direct them towards useful services.
 
+- Data Scraping: Gathering of up to date information from the web with the help of Python and some of its powerful library tools. Incorporated data from government backed sites such as the CDC, and nyc.gov. All info is true to reported data. 
+
 - Alexa Integration: Amazon’s virtual AI technology assistant, Alexa, has the added benefit of accessibility. By 2021, Alexa stations throughout the BMCC campus will allow students and faculty to interact with Alexa to receive the same information as our chatbot. 
 
 # Team

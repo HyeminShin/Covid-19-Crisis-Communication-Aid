@@ -51,6 +51,6 @@ https://youtu.be/DecRMvI8xJM
 - Dr. Mohammad Azhar
 
 # Web Page
- Please visit our web page for information in detail.
+ Please visit our web page for further information:
  
  https://sites.google.com/view/covid-comm-to-the-rescue/

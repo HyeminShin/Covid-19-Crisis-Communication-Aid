@@ -14,9 +14,19 @@ Integrating the Watson chatbot with Alexa proved more difficult than expected wi
 
 # What we learned
 Each one of us took on a different part of this project...
-Hyemin Shin: Watson chatbot development
-Nuhirath Rafthia: Data scraping with Python
-Ryan Najac: Alexa Skills and Watson integration
+- Hyemin Shin: Watson chatbot development
+- Nuhirath Rafthia: Data scraping with Python
+- Ryan Najac: Alexa Skills and Watson integration
+
+
+# Demo Video
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=DecRMvI8xJM&feature=youtube" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=DecRMvI8xJM&feature=youtube"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 # Future Plans
 1) Expand chatbot capabilities

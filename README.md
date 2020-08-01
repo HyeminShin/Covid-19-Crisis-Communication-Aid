@@ -13,15 +13,26 @@ The goal of our project was to construct a machine learning incorporated chatbot
 Integrating the Watson chatbot with Alexa proved more difficult than expected with the biggest hurdle being the connection of the endpoints that allow the Alexa Skill to function as an intermediary between the user and Watson. Ideally, a natural, verbal conversation could be carried out between the user and the Watson driven Alexa Skill, but networking issues prevented us from fully utilizing this synchronicity. The Hypertext Transfer Protocol Secure (HTTPS) requires a Secure Sockets Layer (SSL) to establish an encrypted link between Alexa and Watson, but our team was unable to work out the kinks in time. 
 
 # What we learned
-Each one of us took on a different part of this project…
+Each one of us took on a different part of this project...
 Hyemin Shin: Watson chatbot development
 Nuhirath Rafthia: Data scraping with Python
 Ryan Najac: Alexa Skills and Watson integration
 
+# Future Plans
+1) Expand chatbot capabilities
+  - gather further COVID resources such as food bank locations and important news such as financial aid
+2) Utilize Live Time Data Scraping
+  - gather live time statistical data on the COVID situation
+3) Alexa and Watson Connection
+  - get Alexa to connect with Watson and communicate back and forth
+4) Connectibility of ALL resources
+  - scrape further data from the web, and get the chat bot to reflect those changes
+  - incorportae live time data all around 
+  - create a separate hub on Alexa to act as a communcaiton base for chat bot and live time data
 
 # Built with
 
-- IBM Watson Assistant: A Watson Assistant service utilizes machine learning and natural language processing to interact with users, provide them with data, answer their questions, and direct them towards useful services.
+- IBM Watson Assistant: A Watson Assistant service that utilizes machine learning and natural language processing to interact with users, provide them with data, answer their questions, and direct them towards useful services.
 
 - Alexa Integration: Amazon’s virtual AI technology assistant, Alexa, has the added benefit of accessibility. By 2021, Alexa stations throughout the BMCC campus will allow students and faculty to interact with Alexa to receive the same information as our chatbot. 
 

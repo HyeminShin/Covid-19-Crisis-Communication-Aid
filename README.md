@@ -20,7 +20,7 @@ Each one of us took on a different part of this project...
 
 
 # Demo Video
-# <iframe width="560" height="315" src="https://www.youtube.com/embed/DecRMvI8xJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/DecRMvI8xJM
 
 # Future Plans
 1) Expand chatbot capabilities

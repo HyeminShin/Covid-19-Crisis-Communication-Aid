@@ -20,10 +20,9 @@ Each one of us took on a different part of this project...
 
 
 # Demo Video
+https://youtu.be/DecRMvI8xJM
 
 [![Youtube Video Link](http://img.youtube.com/vi/DecRMvI8xJM/0.jpg)](https://www.youtube.com/watch?v=DecRMvI8xJM "COVID Comm To The Rescue!")
-
-Direct Link: https://youtu.be/DecRMvI8xJM
 
 # Future Plans
 1) Expand chatbot capabilities
@@ -50,3 +49,8 @@ Direct Link: https://youtu.be/DecRMvI8xJM
 - Nuhirath Rafthia
 - Hyemin Shin
 - Dr. Mohammad Azhar
+
+# Web Page
+ Please visit our web page for information in detail.
+ 
+ https://sites.google.com/view/covid-comm-to-the-rescue/
